@@ -1,0 +1,1787 @@
+{
+    "sections": {
+        "SECTION_SEARCH_RESULT": [
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 18821920,
+                    "name": "MS Bakery & Sweets",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18821920\/121d78e7f39b9e7fc2940d9d8c1ff493_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18821920\/121d78e7f39b9e7fc2940d9d8c1ff493_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "47.6K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.3",
+                                "reviewCount": "47.6K",
+                                "reviewTextSmall": "47.6K Reviews",
+                                "subtext": "47.6K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.3",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9300 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Falaknuma, Hyderabad",
+                        "address": "19-4-1\/45, Falaknuma Bus Depot, Falaknuma, Hyderabad",
+                        "localityUrl": "hyderabad\/falaknuma-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/bakery\/",
+                            "name": "Bakery"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "33 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/ms-bakery-sweets-falaknuma\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/ms-bakery-sweets-falaknuma\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.9 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18821920\",\"element_type\":\"listing\",\"rank\":1}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "20% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19676195,
+                    "name": "Al Rabea Al Arabi Cafeteria",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/19676195\/90b1eb4b3ed1aa18dbf4d1ad06871559_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/19676195\/90b1eb4b3ed1aa18dbf4d1ad06871559_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "13.4K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.3",
+                                "reviewCount": "13.4K",
+                                "reviewTextSmall": "13.4K Reviews",
+                                "subtext": "13.4K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.3",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Mehdipatnam, Hyderabad",
+                        "address": "H 12-2-772, Pillar 37, Rethibowli, Mehdipatnam, Hyderabad",
+                        "localityUrl": "hyderabad\/mehdipatnam-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/sandwich\/",
+                            "name": "Sandwich"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "45 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/al-rabea-al-arabi-cafeteria-mehdipatnam\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/al-rabea-al-arabi-cafeteria-mehdipatnam\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "5.7 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19676195\",\"element_type\":\"listing\",\"rank\":2}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20298892,
+                    "name": "MS Bakery",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20298892\/5269086b900633bb22a78d92966bc0d4_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20298892\/5269086b900633bb22a78d92966bc0d4_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.2",
+                        "rating_text": "4.2",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "2,615",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "grey",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.2",
+                                "reviewCount": "2,615",
+                                "reviewTextSmall": "2,615 Reviews",
+                                "subtext": "2,615 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Attapur, Hyderabad",
+                        "address": "House 19-5-28\/C\/D, Kishan Bagh Road, AS Nagar, Near Indian Oil, Attapur, Hyderabad",
+                        "localityUrl": "hyderabad\/attapur-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/rolls\/",
+                            "name": "Rolls"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/bakery\/",
+                            "name": "Bakery"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "37 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/ms-bakery-attapur\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/ms-bakery-attapur\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20298892\",\"element_type\":\"listing\",\"rank\":3}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "20% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20448972,
+                    "name": "Masqati Ice Cream",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20448972\/ccbac7085d24287b46b3e101f50c9f64_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20448972\/ccbac7085d24287b46b3e101f50c9f64_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.9",
+                        "rating_text": "3.9",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "1,029",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.4",
+                                "reviewCount": "5",
+                                "reviewTextSmall": "5 Reviews",
+                                "subtext": "5 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.4",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.3",
+                                "reviewCount": "1,024",
+                                "reviewTextSmall": "1,024 Reviews",
+                                "subtext": "1,024 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.3",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Attapur, Hyderabad",
+                        "address": "19-5-15\/9\/7, Circle 10, Bahadurpura, Attapur, Hyderabad",
+                        "localityUrl": "hyderabad\/attapur-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/ice-cream\/",
+                            "name": "Ice Cream"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/street-food\/",
+                            "name": "Street Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "34 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/masqati-ice-cream-1-attapur\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/masqati-ice-cream-1-attapur\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "2.8 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20448972\",\"element_type\":\"listing\",\"rank\":4}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19477504,
+                    "name": "Al Hashmi Fast Food",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19477504\/5db807da234b5e78f69d3072684c08a6_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19477504\/5db807da234b5e78f69d3072684c08a6_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.1",
+                        "rating_text": "4.1",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "2,359",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.9",
+                                "reviewCount": "20",
+                                "reviewTextSmall": "20 Reviews",
+                                "subtext": "20 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.9",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.2",
+                                "reviewCount": "2,339",
+                                "reviewTextSmall": "2,339 Reviews",
+                                "subtext": "2,339 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Charminar, Hyderabad",
+                        "address": "23-5-67, Syed Ali Chabutra, Shah Ali Banda, Charminar, Hyderabad",
+                        "localityUrl": "hyderabad\/charminar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "31 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/al-hashmi-fast-food-charminar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/al-hashmi-fast-food-charminar\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "2.1 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19477504\",\"element_type\":\"listing\",\"rank\":5}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "20% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 94336,
+                    "name": "Lucky Restaurant",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/94336\/b11958906834b77171383978608a20ef_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/94336\/b11958906834b77171383978608a20ef_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.2",
+                        "rating_text": "4.2",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "243.4K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.1",
+                                "reviewCount": "3,264",
+                                "reviewTextSmall": "3,264 Reviews",
+                                "subtext": "3,264 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.1",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.2",
+                                "reviewCount": "240.2K",
+                                "reviewTextSmall": "240.2K Reviews",
+                                "subtext": "240.2K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,100 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Saroor Nagar, Hyderabad",
+                        "address": "H 17-1-375\/26\/A\/4, D.M.R.L. X Road, Santosh Nagar, Saroor Nagar, Hyderabad",
+                        "localityUrl": "hyderabad\/saroor-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/arabian\/",
+                            "name": "Arabian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/continental\/",
+                            "name": "Continental"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/sea-food\/",
+                            "name": "Seafood"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "27 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/lucky-restaurant-saroor-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/lucky-restaurant-saroor-nagar\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "4.1 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"94336\",\"element_type\":\"listing\",\"rank\":6}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "Free Double Ka Meetha",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20527000,
+                    "name": "Red Bucket Biryani",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/20455809\/c999313892a54cffcd5bfaa39e0da4e0_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/9\/20455809\/c999313892a54cffcd5bfaa39e0da4e0_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.6",
+                        "rating_text": "3.6",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "255",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.6",
+                                "reviewCount": "1",
+                                "reviewTextSmall": "1 Reviews",
+                                "subtext": "1 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.6",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.5",
+                                "reviewCount": "254",
+                                "reviewTextSmall": "254 Reviews",
+                                "subtext": "254 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.5",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9400 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Himayath Nagar, Hyderabad",
+                        "address": "House 3-5-896, Cross Road, Himayath Nagar, Hyderabad",
+                        "localityUrl": "hyderabad\/himayath-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "34 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/red-bucket-biryani-himayath-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/red-bucket-biryani-himayath-nagar\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.8 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20527000\",\"element_type\":\"listing\",\"rank\":7}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 18034430,
+                    "name": "Kritunga Restaurant-Jagavi's",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18034430\/ab76ed0e5980d44151e62ce22b187114_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18034430\/ab76ed0e5980d44151e62ce22b187114_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "35.4K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.9",
+                                "reviewCount": "464",
+                                "reviewTextSmall": "464 Reviews",
+                                "subtext": "464 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.9",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "34.9K",
+                                "reviewTextSmall": "34.9K Reviews",
+                                "subtext": "34.9K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,000 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Panjagutta, Hyderabad",
+                        "address": "6-3-658\/16, Raj Bhavan Quarters Colony, Erramanzil, Opposite Civil Supplies Bhavan, Panjagutta, Hyderabad",
+                        "localityUrl": "hyderabad\/panjagutta-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMlwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/andhra\/",
+                            "name": "Andhra"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/sea-food\/",
+                            "name": "Seafood"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "50 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/kritunga-restaurant-jagavis-panjagutta\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/kritunga-restaurant-jagavis-panjagutta\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "6.4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18034430\",\"element_type\":\"listing\",\"rank\":8}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19862417,
+                    "name": "Pizza Hut",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/4\/90384\/7d1f0c24bf8d0ddf5aad917a9cc1d216_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/4\/90384\/7d1f0c24bf8d0ddf5aad917a9cc1d216_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.8",
+                        "rating_text": "3.8",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "1,610",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.5",
+                                "reviewCount": "46",
+                                "reviewTextSmall": "46 Reviews",
+                                "subtext": "46 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.5",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.0",
+                                "reviewCount": "1,564",
+                                "reviewTextSmall": "1,564 Reviews",
+                                "subtext": "1,564 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.0",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Kacheguda, Hyderabad",
+                        "address": "2-4-1115 & 2-4-1115\/1, Ground Floor, Kacheguda, Hyderabad",
+                        "localityUrl": "hyderabad\/kacheguda-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/pasta\/",
+                            "name": "Pasta"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/italian\/",
+                            "name": "Italian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "36 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/pizza-hut-kacheguda\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/pizza-hut-kacheguda\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19862417\",\"element_type\":\"listing\",\"rank\":9}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20233278,
+                    "name": "Kritunga",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/19509846\/aead71107d5811aab1b5da10c1726e77_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/6\/19509846\/aead71107d5811aab1b5da10c1726e77_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.6",
+                        "rating_text": "3.6",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "1,927",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.2",
+                                "reviewCount": "34",
+                                "reviewTextSmall": "34 Reviews",
+                                "subtext": "34 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.2",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.9",
+                                "reviewCount": "1,893",
+                                "reviewTextSmall": "1,893 Reviews",
+                                "subtext": "1,893 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.9",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Himayath Nagar, Hyderabad",
+                        "address": "6-238, Ridge House, Himayath Nagar, Hyderabad",
+                        "localityUrl": "hyderabad\/himayath-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/south-indian\/",
+                            "name": "South Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/bbq\/",
+                            "name": "BBQ"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/sichuan\/",
+                            "name": "Sichuan"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "46 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/kritunga-himayath-nagar\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/kritunga-himayath-nagar\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20233278\",\"element_type\":\"listing\",\"rank\":10}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "Flat 15% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 18948828,
+                    "name": "Lucky Multicuisine Restaurant",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18948828\/f970cc68d7d250e4ab1614b69ba704e0_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18948828\/f970cc68d7d250e4ab1614b69ba704e0_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "85.3K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.2",
+                                "reviewCount": "694",
+                                "reviewTextSmall": "694 Reviews",
+                                "subtext": "694 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.2",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.8",
+                                "reviewCount": "84.6K",
+                                "reviewTextSmall": "84.6K Reviews",
+                                "subtext": "84.6K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.8",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9950 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Somajiguda, Hyderabad",
+                        "address": "Door 6, Circle 10, Old MCH Circle 5, Somajiguda, Hyderabad",
+                        "localityUrl": "hyderabad\/somajiguda-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/sea-food\/",
+                            "name": "Seafood"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTYxXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/shawarma\/",
+                            "name": "Shawarma"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTk2XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/mandi\/",
+                            "name": "Mandi"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "52 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/lucky-multicuisine-restaurant-somajiguda\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/lucky-multicuisine-restaurant-somajiguda\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "6.4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18948828\",\"element_type\":\"listing\",\"rank\":11}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19113172,
+                    "name": "Subbayya Gari Hotel",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18752268\/74d8385b6d3415f76ac91e361c47d9db_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18752268\/74d8385b6d3415f76ac91e361c47d9db_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "43K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.9",
+                                "reviewCount": "921",
+                                "reviewTextSmall": "921 Reviews",
+                                "subtext": "921 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.9",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                }
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.0",
+                                "reviewCount": "42.1K",
+                                "reviewTextSmall": "42.1K Reviews",
+                                "subtext": "42.1K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.0",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Reviews",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9600 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9100 for one"
+                    },
+                    "locality": {
+                        "name": "Malakpet, Hyderabad",
+                        "address": "16-10-1\/S\/47, A, B, C, D, E & F, Upper Ground Floor, Sri Krupa Market, Mahaboob Mansion, Malakpet, Hyderabad",
+                        "localityUrl": "hyderabad\/malakpet-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/hyderabad\/restaurants\/south-indian\/",
+                            "name": "South Indian"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "30 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "\/hyderabad\/subbayya-gari-hotel-malakpet\/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/hyderabad\/subbayya-gari-hotel-malakpet\/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.4 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"location_type\":\"delivery_cell\",\"location_id\":\"4308704762854899712\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19113172\",\"element_type\":\"listing\",\"rank\":12}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "10% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": [
+                    {
+                        "image": {
+                            "url": "https:\/\/b.zmtcdn.com\/data\/o2_assets\/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                            "aspect_ratio": 2.66666666667
+                        },
+                        "text": "Follows all Max Safety measures to ensure your food is safe"
+                    }
+                ]
+            }
+        ],
+        "SECTION_SEARCH_META_INFO": {
+            "searchMetaData": {
+                "previousSearchParams": "{\"PreviousSearchId\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\",\"PreviousSearchFilter\":[\"{\\\"category_context\\\":\\\"delivery_home\\\"}\",\"\"]}",
+                "postbackParams": "{\"processed_chain_ids\":[18999428,92136,91917,93970,92687,18867877,19937288,93206,93043,91999,92020,93739,90195,19890737,97192,91662,90896,90706,91637,90032,18138658,18821920,19531339,18592982,18582820,19477504,94336,20455809,18707539,90384,19509846,18948828,18752268],\"shown_res_count\":33,\"search_id\":\"99d067be-2639-46b8-87e1-1ddc5e623f85\"}",
+                "totalResults": 3173,
+                "hasMore": true,
+                "getInactive": false
+            }
+        }
+    },
+    "entities": []
+}
